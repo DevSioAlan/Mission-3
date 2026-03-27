@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yn0DmyI/o4s=",
+  "success": true,
+  "projectFilePath": "E:\\transfert\\mission3c-main\\mission3c-main\\mission3c\\mission3c\\mission3c.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alanm\\.nuget\\packages\\entityframework\\6.2.0\\entityframework.6.2.0.nupkg.sha512",
+    "C:\\Users\\alanm\\.nuget\\packages\\entityframework.fr\\6.2.0\\entityframework.fr.6.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
